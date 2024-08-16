@@ -1,0 +1,6 @@
+# This does not work
+app/*
+!app/dist
+
+# This works
+tests
